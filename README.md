@@ -1,6 +1,6 @@
 # MediumProjects
 
-Hello and welcome to my Medium Projects Repo. This will be a space for projects I have created to practice the syntax and and reinforce my knowledge.
+Hello and welcome to my Medium Projects Repo. This will be a space for projects I have created to practice the syntax and reinforce my knowledge.
 
 Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
